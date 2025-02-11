@@ -4,7 +4,7 @@
 
 ## Insights 
 
-High Volume of Viral Infection and Flu Cases: The "Diagnosis-Wise Patient Count" clearly indicates that Viral Infection and Flu are the most prevalent diagnoses. This suggests:
+High Volume of Viral Infection and Flu Cases: The "Diagnosis-Wise Patient Count" clearly indicates that Viral Infection and Flu are the most prevalent diagnoses.
 
  
 
