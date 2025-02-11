@@ -1,18 +1,6 @@
 # Health_care
 
 
-## Objective
-
-The primary objectives of this People's Hospital Leads Flow Dashboard are to:
-
-Visualize Patient Demographics and Admission/Discharge Trends:  To effectively illustrate patient admission and discharge patterns over a specified date range, providing insights into patient volume and length of stay.
-
-Monitor Bed Occupancy Across Wards:  To provide a real-time view of bed occupancy rates across different wards (Private, General, ICU), enabling hospital staff to identify potential capacity issues and optimize bed allocation.
-
-Analyze Billing and Insurance Trends: To visualize billing amounts in relation to health insurance coverage, allowing for analysis of financial performance and identification of potential revenue cycle management improvements.
-
-Assess Doctor Performance through Patient Feedback: To present patient feedback data categorized by doctor, facilitating the monitoring of patient satisfaction and identification of areas for service enhancement.
-
 
 ## Insights 
 
